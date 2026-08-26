@@ -20,7 +20,6 @@ $ whoami --verbose
 
 ```yaml
 name:      Chun Ki Lam  (a.k.a. Jacky)
-role:      Assistant IT Manager @ City University of Hong Kong
 xp:        10+ years  🎮  (infra → cloud → backend → AI)
 location:  Hong Kong 🇭🇰  (UTC+8)
 langs:     Cantonese 🗣️ | Mandarin | English
