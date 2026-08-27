@@ -66,14 +66,9 @@ multi-region clouds, then APIs, then AI systems that actually ship. If it needs 
   <img src="./assets/toolbox/flutter.svg" width="46" height="46" alt="Flutter" title="Flutter"/>
 </p>
 
-### 🤖 AI & Observability
+### 📈 Observability & Automation
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/toolbox/openai-api-dark.svg"/>
-    <img src="./assets/toolbox/openai-api.svg" width="46" height="46" alt="OpenAI API" title="OpenAI API"/>
-  </picture>&nbsp;&nbsp;
-  <img src="./assets/toolbox/pgvector.svg" width="46" height="46" alt="pgvector" title="pgvector"/>&nbsp;&nbsp;
   <img src="./assets/toolbox/prometheus.svg" width="46" height="46" alt="Prometheus" title="Prometheus"/>&nbsp;&nbsp;
   <img src="./assets/toolbox/grafana.svg" width="46" height="46" alt="Grafana" title="Grafana"/>&nbsp;&nbsp;
   <img src="./assets/toolbox/elastic.svg" width="46" height="46" alt="Elastic" title="Elastic"/>&nbsp;&nbsp;
