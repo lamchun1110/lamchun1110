@@ -53,6 +53,13 @@ multi-region clouds, then APIs, then AI systems that actually ship. If it needs 
   <img src="./assets/toolbox/openshift.svg" width="46" height="46" alt="OpenShift" title="OpenShift"/>
 </p>
 
+### 💾 Storage & Data Protection
+
+<p align="center">
+  <img src="./assets/toolbox/netapp.svg" width="46" height="46" alt="NetApp" title="NetApp"/>&nbsp;&nbsp;
+  <img src="./assets/toolbox/veeam.svg" width="46" height="46" alt="Veeam" title="Veeam"/>
+</p>
+
 ### ⚙️ Backend & Data
 
 <p align="center">
