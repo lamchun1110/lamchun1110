@@ -71,6 +71,13 @@ multi-region clouds, then APIs, then AI systems that actually ship. If it needs 
 ![Elastic](https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
+
+**🧠 AI Engineering & Agentic Development**
+
+![Codex](https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-111827?style=for-the-badge&logo=gnometerminal&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-6D28D9?style=for-the-badge&logoColor=white)
 </div>
 
 ---
@@ -129,6 +136,8 @@ multi-region clouds, then APIs, then AI systems that actually ship. If it needs 
 - 🌱 Finishing my **M.Sc. in Big Data Analytics**
 - 🧪 Poking at vector retrieval, prompt orchestration, and agent workflows
 - 💬 Ask me about: **OpenStack war stories**, **scaling Django**, or **why your VM is slow**
+- 🤖 Building agentic development workflows with Codex, Claude Code, OpenCode, and MCP
+- 🧪 Exploring tool use, multi-agent orchestration, evaluation, and reliable LLM systems
 - ⚡ Fun fact: my first "production system" tracked aircraft. Uptime was *non-negotiable*.
 
 ---
