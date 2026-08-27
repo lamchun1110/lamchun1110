@@ -39,45 +39,64 @@ multi-region clouds, then APIs, then AI systems that actually ship. If it needs 
 
 <div align="center">
 
-**☁️ Cloud & Platform**
+### ☁️ Cloud & Platform
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
+<p align="center">
+  <img src="./assets/toolbox/aws.svg" width="46" height="46" alt="AWS" title="AWS"/>&nbsp;&nbsp;
+  <img src="./assets/toolbox/azure.svg" width="46" height="46" alt="Azure" title="Azure"/>&nbsp;&nbsp;
+  <img src="./assets/toolbox/gcp.svg" width="46" height="46" alt="Google Cloud" title="Google Cloud"/>&nbsp;&nbsp;
+  <img src="./assets/toolbox/openstack.svg" width="46" height="46" alt="OpenStack" title="OpenStack"/>&nbsp;&nbsp;
+  <img src="./assets/toolbox/vmware.svg" width="46" height="46" alt="VMware" title="VMware"/>&nbsp;&nbsp;
+  <img src="./assets/toolbox/kubernetes.svg" width="46" height="46" alt="Kubernetes" title="Kubernetes"/>&nbsp;&nbsp;
+  <img src="./assets/toolbox/docker.svg" width="46" height="46" alt="Docker" title="Docker"/>&nbsp;&nbsp;
+  <img src="./assets/toolbox/openshift.svg" width="46" height="46" alt="OpenShift" title="OpenShift"/>
+</p>
 
-**⚙️ Backend & Data**
+### ⚙️ Backend & Data
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+<p align="center">
+  <img src="./assets/toolbox/python.svg" width="46" height="46" alt="Python" title="Python"/>&nbsp;&nbsp;
+  <img src="./assets/toolbox/rust.svg" width="46" height="46" alt="Rust" title="Rust"/>&nbsp;&nbsp;
+  <img src="./assets/toolbox/go.svg" width="46" height="46" alt="Go" title="Go"/>&nbsp;&nbsp;
+  <img src="./assets/toolbox/django.svg" width="46" height="46" alt="Django" title="Django"/>&nbsp;&nbsp;
+  <img src="./assets/toolbox/fastapi.svg" width="46" height="46" alt="FastAPI" title="FastAPI"/>&nbsp;&nbsp;
+  <img src="./assets/toolbox/postgresql.svg" width="46" height="46" alt="PostgreSQL" title="PostgreSQL"/>&nbsp;&nbsp;
+  <img src="./assets/toolbox/mongodb.svg" width="46" height="46" alt="MongoDB" title="MongoDB"/>&nbsp;&nbsp;
+  <img src="./assets/toolbox/mariadb.svg" width="46" height="46" alt="MariaDB" title="MariaDB"/>&nbsp;&nbsp;
+  <img src="./assets/toolbox/flutter.svg" width="46" height="46" alt="Flutter" title="Flutter"/>
+</p>
 
-**🤖 AI & Observability**
+### 🤖 AI & Observability
 
-![LLM](https://img.shields.io/badge/LLM%20Apps-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Elastic](https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/toolbox/llm-apps-dark.svg"/>
+    <img src="./assets/toolbox/llm-apps.svg" width="46" height="46" alt="LLM Apps" title="LLM Apps"/>
+  </picture>&nbsp;&nbsp;
+  <img src="./assets/toolbox/pgvector.svg" width="46" height="46" alt="pgvector" title="pgvector"/>&nbsp;&nbsp;
+  <img src="./assets/toolbox/prometheus.svg" width="46" height="46" alt="Prometheus" title="Prometheus"/>&nbsp;&nbsp;
+  <img src="./assets/toolbox/grafana.svg" width="46" height="46" alt="Grafana" title="Grafana"/>&nbsp;&nbsp;
+  <img src="./assets/toolbox/elastic.svg" width="46" height="46" alt="Elastic" title="Elastic"/>&nbsp;&nbsp;
+  <img src="./assets/toolbox/ansible.svg" width="46" height="46" alt="Ansible" title="Ansible"/>
+</p>
 
+### 🧠 Agentic Development
 
-**🧠 AI Engineering & Agentic Development**
-
-![Codex](https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![OpenCode](https://img.shields.io/badge/OpenCode-111827?style=for-the-badge&logo=gnometerminal&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-6D28D9?style=for-the-badge&logoColor=white)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/toolbox/codex-dark.svg"/>
+    <img src="./assets/toolbox/codex.svg" width="46" height="46" alt="Codex" title="Codex"/>
+  </picture>&nbsp;&nbsp;
+  <img src="./assets/toolbox/claude-code.svg" width="46" height="46" alt="Claude Code" title="Claude Code"/>&nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/toolbox/opencode-dark.svg"/>
+    <img src="./assets/toolbox/opencode.svg" width="46" height="46" alt="OpenCode" title="OpenCode"/>
+  </picture>&nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/toolbox/mcp-dark.svg"/>
+    <img src="./assets/toolbox/mcp.svg" width="46" height="46" alt="MCP" title="MCP"/>
+  </picture>
+</p>
 </div>
 
 ---
