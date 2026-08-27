@@ -47,6 +47,7 @@ multi-region clouds, then APIs, then AI systems that actually ship. If it needs 
   <img src="./assets/toolbox/gcp.svg" width="46" height="46" alt="Google Cloud" title="Google Cloud"/>&nbsp;&nbsp;
   <img src="./assets/toolbox/openstack.svg" width="46" height="46" alt="OpenStack" title="OpenStack"/>&nbsp;&nbsp;
   <img src="./assets/toolbox/vmware.svg" width="46" height="46" alt="VMware" title="VMware"/>&nbsp;&nbsp;
+  <img src="./assets/toolbox/nutanix.svg" width="46" height="46" alt="Nutanix" title="Nutanix"/>&nbsp;&nbsp;
   <img src="./assets/toolbox/kubernetes.svg" width="46" height="46" alt="Kubernetes" title="Kubernetes"/>&nbsp;&nbsp;
   <img src="./assets/toolbox/docker.svg" width="46" height="46" alt="Docker" title="Docker"/>&nbsp;&nbsp;
   <img src="./assets/toolbox/openshift.svg" width="46" height="46" alt="OpenShift" title="OpenShift"/>
