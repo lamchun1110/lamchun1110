@@ -70,8 +70,8 @@ multi-region clouds, then APIs, then AI systems that actually ship. If it needs 
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/toolbox/llm-apps-dark.svg"/>
-    <img src="./assets/toolbox/llm-apps.svg" width="46" height="46" alt="LLM Apps" title="LLM Apps"/>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/toolbox/openai-api-dark.svg"/>
+    <img src="./assets/toolbox/openai-api.svg" width="46" height="46" alt="OpenAI API" title="OpenAI API"/>
   </picture>&nbsp;&nbsp;
   <img src="./assets/toolbox/pgvector.svg" width="46" height="46" alt="pgvector" title="pgvector"/>&nbsp;&nbsp;
   <img src="./assets/toolbox/prometheus.svg" width="46" height="46" alt="Prometheus" title="Prometheus"/>&nbsp;&nbsp;
