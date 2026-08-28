@@ -21,12 +21,11 @@ $ whoami --verbose
 ```yaml
 name:      Chun Ki Lam  (a.k.a. Jacky)
 role:      Technical leader — infrastructure, cloud, backend, AI
-xp:        10+ years  🎮  (infra → cloud → backend → AI)
+xp:        15+ years  🎮  (infra → cloud → backend → AI)
 location:  Hong Kong 🇭🇰  (UTC+8)
 langs:     Cantonese 🗣️ | Mandarin | English
 studying:  M.Sc. Big Data Analytics, Univ. of Liverpool  🎓 (2026)
 currently: teaching LLMs to remember things, and servers to behave
-fun_fact:  I once kept aviation radar systems alive. No pressure. ✈️
 ```
 
 I've spent a decade making infrastructure **boring** — in the best way. Racks, hypervisors,
