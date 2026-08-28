@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Jacky+%F0%9F%91%8B;Cloud+%7C+Infra+%7C+Backend+%7C+AI+Systems;10%2B+years+of+production+systems;I+turn+coffee+into+YAML+and+Python+%E2%98%95" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Jacky+%F0%9F%91%8B;Cloud+%7C+Infra+%7C+Backend+%7C+AI+Systems;15%2B+years+of+production+systems;I+turn+coffee+into+YAML+and+Python+%E2%98%95" alt="Typing SVG" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=header&text=&fontSize=0" width="100%"/>
 
